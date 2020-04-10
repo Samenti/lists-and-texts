@@ -1,0 +1,28 @@
+h1 {
+  color: #e36e00;
+  font-size: 28px;
+  margin: 7px 0px;
+}
+
+h2 {
+  color: #8403fc;
+  font-size: 20px;
+  margin: 7px 0px;
+}
+
+p {
+  font-size: 14px;
+  margin: 7px 0px;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+.pink {
+  color: #ff5ce9;
+}
+
+.underlined {
+  text-decoration: underline;
+}
